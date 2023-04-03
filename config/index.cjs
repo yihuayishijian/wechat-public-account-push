@@ -30,20 +30,20 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '2003', date: '02-20',
+          type: '*生日', name: '小天依', year: '2003', date: '03-13',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '2003', date: '03-13',
+          type: '生日', name: '小天依', year: '2003', date: '03-13',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2023', date: '03-10',
+          type: '节日', name: '相识纪念日', year: '2023', date: '03-12',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2023-03-10' },
+        { keyword: 'love_day', date: '2023-03-27' },
       ],
     },
   ],
