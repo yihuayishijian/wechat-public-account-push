@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小天依',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'olldg58ytcDi7texZU0B3_njpQKg',
+      id: 'olldg55xcpVK5pXO7SuC9WPIq4_Y',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       //useTemplateId: 'k9mZ14aShO7LCgvL7UM8Kej8gfUw3UGE5YEGX9laOgs',
       useTemplateId: '6Nghwgh7UbcoKP5gAhF4oDvhsiCK0kErag8WXbUzYGU',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '郭硕',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'olldg58ytcDi7texZU0B3_njpQKg',
+      id: 'olldg55xcpVK5pXO7SuC9WPIq4_Y',
     }
   ],
 
